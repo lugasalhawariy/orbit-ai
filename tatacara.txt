@@ -1,0 +1,21 @@
+1. Pastikan terinstall Python di Sistem operasi anda (laptop anda)
+2. Install virtual env (cari aja di gugel cara installnya)
+3. Buat folder untuk menyimpan project
+4. Masuk ke project 
+5. Buat virtual env dengan nama bebas (contoh ketik: virtualenv myenv)
+6. Masuk ke vitual env yang sudah dibuat (ketik: source myenv/bin/activate)
+7. Lakukan install library yang dibutuhkan seperti di bawah 
+
+____________________________________________________________________________
+____________________________________________________________________________
+
+pip install jupyterlab
+pip install pandas
+pip install numpy
+pip install matplotlib
+____________________________________________________________________________
+____________________________________________________________________________
+
+NOTE: untuk keluar dari environment __> ketik: deactivate
+
+SELAMAT MENCOBA!!!
